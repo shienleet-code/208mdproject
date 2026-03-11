@@ -15,7 +15,7 @@ body {
 margin:0;
 padding:0;
 font:75%/1.4 verdana,Helvetica,sans-serif;
-background-image:url(body_bg.gif);
+background-image:url(./backgroud_floating.gif);
 text-align:center;
 }
 
@@ -68,7 +68,7 @@ text-align:left;
 header {
 width:772px;
 height:178px;
-background:url(top.jpg);
+background:url(/background.gif);
 }
 
 .summary, .preamble, .explanation, .participation, .benefits, .requirements {
