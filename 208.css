@@ -15,11 +15,10 @@ body {
 margin:0;
 padding:0;
 font:75%/1.4 verdana,Helvetica,sans-serif;
-background-image:url(/backgroud_floating.gif);
+background-image:url(backgroud_floating.gif);
 background-size: cover;        /* makes the background full screen */
 background-position: center;   /* centers the image */
 background-repeat: no-repeat; 
-
 text-align:center;
 }
 
