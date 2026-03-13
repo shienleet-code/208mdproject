@@ -62,10 +62,7 @@ width:772px;
 margin:0 auto;
 padding:0 13px;
 position:relative;
-background:url(backgroud_floating.gif) repeat-x #dfdfdf;
-border-left:1px solid #ffffff;
-border-right:1px solid #ffffff;
-color:#454545;
+background:url(backgroud_floating.gif) repeat-x;
 text-align:left;
 }
 
