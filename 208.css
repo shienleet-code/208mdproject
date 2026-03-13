@@ -176,7 +176,7 @@ color:#777777;
 .summary p:first-child {
 padding-top:14px;
 position: relative;
-background:url(/background.jpg) top no-repeat;
+background:url(top.gif) top no-repeat;
 }
 
 .summary p:last-child {
